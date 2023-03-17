@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - main funct.
+ * main - main function
  *
  * Return: always 0
  */
@@ -15,5 +15,5 @@ int main(void)
 	for (i = 'A' ; i <= 'Z' ; i++)
 		putchar(i);
 	puctchar('\n');
-	return (0)
+	return (0);
 }
